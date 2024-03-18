@@ -1,0 +1,25 @@
+# Generated files
+/target/
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# Rust related files
+*.rs.bk
+*.rlib
+*.rmeta
+*.exe
+*.rlib
+*.crate
+*.so
+*.dll
+*.dylib
+
+# Dependency directories
+Cargo.lock
+
+#
+*.out
+*.bedmethyl
+test*
