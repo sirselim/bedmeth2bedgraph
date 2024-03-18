@@ -12,6 +12,7 @@ This Rust program processes lines from a given bedmethyl input file in parallel 
 ## Installation
 
 1. Make sure you have Rust and Cargo installed. If not, you can install them from [here](https://www.rust-lang.org/tools/install).
+
 2. Clone this repository:
 
 ```sh
